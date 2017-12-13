@@ -1,4 +1,4 @@
-# Powering Projects
+# Raspberry PI Jam
 
 Instructors:
 Rick Anderson (rick.anderson@rutgers.edu)
