@@ -21,16 +21,22 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 
 ---
 ## Agenda for the day
-* What is Information Tehcnology?
-* How does the Raspberry PI enable this?
-* Let's Get Started
-* Booting up
-* Framing assignments and challenges for students
-
+* What's a Raspberry PI Jam?
+* You can host your own too.
+* Learning Information Technology in K-12 with Raspberry PI
+* Let's assemble your computer
+* What are the parts and pieces?
+* What's an operating system?
+* Securing your computer
+* Set up the network
+* Remote access to  your machine
+* The good things to know when setting up.
+* Introduction to Scratch and GPIO electronics
+* The Jam: Let's have fun and explore
 ---
 
 ## What is Information Technology?
-* How is this brought to Middle School?
+* Learning Information Technology in K-12 with Raspberry PI
  * Computer Hardware
  * Web Design
  * Networking
@@ -41,3 +47,35 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 
 ---
 ## Let's get started
+
+
+---
+## Resources
+
+* Raspberry PI: Hardware: https://www.raspberrypi.org/learning/hardware-guide/ (link is external)
+* Raspberry PI: Software Guide: https://www.raspberrypi.org/learning/software-guide/ (link is external)
+* Raspberry PI: Network Lesson: https://www.raspberrypi.org/learning/networking-lessons/lessons/ (link is * external)
+* Online Learning Resources: https://www.raspberrypi.org/resources/learn/ (link is external)
+
++++
+## More...
+
+* Introduction Video: https://youtu.be/_cviTxswW8c (link is external)
+
+* Scratch and Pi Tutorial: https://www.raspberrypi.org/learning/robot-antenna/ (link is external)
+
+* Raspberry Pi Guy Video Tutorials: https://www.raspberrypi.org/blog/the-triumphant-return-of-the-raspberry-pi-guy/ (link is external)
+
+* https://www.youtube.com/channel/UCfY8sl5Q6VKndz0nLaGygPw (link is external)
+
+* The parts of the raspberry Pi: http://raspmap.everpi.net/ (link is external)
+
+* Tutorial by Student: http://www.raspberrypitutorials.yolasite.com/ (link is external)
+
+* More Tutorials: https://www.raspberrypi.org/blog/tag/tutorials/ (link is external)
+
+* Project: http://www.pcadvisor.co.uk/how-to/desktop-pc/10-great-raspberry-pi-projects-for-kids-3589952/ (link is external)
+
+* Blockly: https://github.com/karstenda/BlocklyPi (link is external)
+
+*  Kids Adventures with Raspberry Pi: https://www.kidscodecs.com/my-adventures-with-raspberry-pi/
