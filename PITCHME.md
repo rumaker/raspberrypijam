@@ -26,6 +26,9 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 * Learning Information Technology in K-12 with Raspberry PI
 * Let's assemble your computer
 * What are the parts and pieces?
+
++++
+
 * What's an operating system?
 * Securing your computer
 * Set up the network
@@ -40,14 +43,60 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
  * Computer Hardware
  * Web Design
  * Networking
- * Computer mainteance and repair
+ * Computer maintenance and repair
 
 ---
+## Setting up the class
+---
+
+## Computer Hardware
+* CPU
+* Memory
+* Harddrive
+* Keyboard
+* Mouse
+
+---
+
+ ## Networking
+
+* What name does my computer have?
+* Local information
+* IP Address
+* Domain Name System
+* Gateway IP
+
+---
+
+ ## Computer maintenance and repair
+ * Turning it on and off again
+ * Updating hardware
+ * Updating software
+ ---
+
+## Configure the hard drive
+* Preparing the operating system
+* Etching the image onto an SD Card
+
 ##  Framing assignments and challenges
+* This is framed as IT and setting up the class
+* It's a real world activity
+* How to we create accounts for people
+* The students can do it
 
 ---
 ## Let's get started
 
+* Booting up
+* Picking the language
+* Setting the keyboard internationalization
+* Setting the time zone
+
+---
+# Common set up steps
+* run `raspi-config`
+* Change the name of the machine
+* Change the system password
 
 ---
 ## Resources
