@@ -73,11 +73,12 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 
 ---
 
- ## Computer maintenance and repair
+## Computer maintenance and repair
  * Turning it on and off again
  * Updating hardware
  * Updating software
- ---
+ 
+---
 
 ## Configure the hard drive
 * Preparing the operating system
