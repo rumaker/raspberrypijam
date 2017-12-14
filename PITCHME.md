@@ -35,6 +35,8 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 
 ## What's a Raspberry PI Jam?
 
++++
+
 > A Raspberry Jam is the pun-tastic name we give to a meetup of people interested in making things with a Raspberry Pi computer. Raspberry Jams come in all shapes and sizes: workshops for beginners, drop-in sessions to work on your own projects, show-and-tell, talks, and more. A Jam is a meeting of all kinds of people: some will be new to physical computing, and some will have plenty of experience that they are happy to share. Jams are welcoming events where you’ll meet and learn from like-minded people in a friendly environment.
 >
 > -- <cite>Raspberry PI Foundation: https://www.raspberrypi.org/jam/ </cite>
@@ -83,6 +85,8 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 ## Configure the hard drive
 * Preparing the operating system
 * Etching the image onto an SD Card
+
+---
 
 ##  Framing assignments and challenges
 * This is framed as IT and setting up the class
