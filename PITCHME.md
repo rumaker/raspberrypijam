@@ -42,14 +42,16 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 ---
 
 ## What is Information Technology?
-* Learning Information Technology in K-12 with Raspberry PI
  * Computer Hardware
  * Web Design
  * Networking
  * Computer maintenance and repair
+ * What else?
 
 ---
-## Setting up the class
+## Learning Information Technology in K-12 with Raspberry PI
+ * How can the Raspberry PI help?
+ 
 ---
 
 ## Computer Hardware
@@ -88,6 +90,14 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 * The students can do it
 
 ---
+## Worksheet Activity:
+ * Make a worksheet and checklist to for getting started
+  * Wifi: makerspacePRO
+  * Choose a computer name
+  * Pick a password
+  * What else?
+ 
+---
 ## Let's get started
 
 * Booting up
@@ -102,6 +112,15 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 * Change the system password
 
 ---
+## JAM
+ * Explore the PI
+ * Example activty using Scratch to control electonics
+
+---
+# THANK YOU
+Your feedback is appreciated!
+---
+
 ## Resources
 
 * Raspberry PI: Hardware: https://www.raspberrypi.org/learning/hardware-guide/ (link is external)
@@ -121,6 +140,8 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 * https://www.youtube.com/channel/UCfY8sl5Q6VKndz0nLaGygPw (link is external)
 
 * The parts of the raspberry Pi: http://raspmap.everpi.net/ (link is external)
+
++++
 
 * Tutorial by Student: http://www.raspberrypitutorials.yolasite.com/ (link is external)
 
