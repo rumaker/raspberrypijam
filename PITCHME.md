@@ -124,7 +124,7 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 ---
 ## JAM
  * Explore the PI
- * Example activty using Scratch to control electonics
+ * Example activity using Scratch to control electonics
 
 ---
 # THANK YOU
