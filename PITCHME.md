@@ -142,16 +142,16 @@ Your feedback is appreciated!
 
 * Raspberry Pi Guy Video Tutorials: https://www.raspberrypi.org/blog/the-triumphant-return-of-the-raspberry-pi-guy/ (link is external)
 
++++
+
 * https://www.youtube.com/channel/UCfY8sl5Q6VKndz0nLaGygPw (link is external)
 
 * The parts of the raspberry Pi: http://raspmap.everpi.net/ (link is external)
 
-+++
-
 * Tutorial by Student: http://www.raspberrypitutorials.yolasite.com/ (link is external)
 
 * More Tutorials: https://www.raspberrypi.org/blog/tag/tutorials/ (link is external)
-
++++
 * Project: http://www.pcadvisor.co.uk/how-to/desktop-pc/10-great-raspberry-pi-projects-for-kids-3589952/ (link is external)
 
 * Blockly: https://github.com/karstenda/BlocklyPi (link is external)
