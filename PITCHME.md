@@ -75,19 +75,24 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 
 ---
 
-## Computer maintenance and repair
- * Turning it on and off again
- * Updating hardware
- * Updating software
- 
----
-
 ## Configure the hard drive
 * Preparing the operating system
 * Etching the image onto an SD Card
 
 ---
-
+## Computer maintenance and repair
+ * Turning it on and off again
+ * Updating hardware
+ * Updating software
+---
+## Management
+ * Remote Access
+  * Graphical Access: RealVNC
+   * https://www.raspberrypi.org/documentation/remote-access/vnc/
+  * Command Line Access: ssh
+   * https://www.raspberrypi.org/documentation/remote-access/ssh/README.md
+   
+---
 ##  Framing assignments and challenges
 * This is framed as IT and setting up the class
 * It's a real world activity
