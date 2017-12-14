@@ -16,20 +16,28 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 ---
 # Who are you? Who am I/We?
 
+
 ---
 # Goals for the day
-
+ * Your Goals
+ * Have some fun learning Raspberry PI
+ 
 ---
 ## Agenda for the day
 * What's a Raspberry PI Jam?
 * You can host your own too.
 * Learning Information Technology in K-12 with Raspberry PI
-* Let's assemble your computer
+* Let's Get Started: Start building
 * Jam
 
 ---
 
 ## What's a Raspberry PI Jam?
+
+[https://www.raspberrypi.org/jam/]
+"
+A Raspberry Jam is the pun-tastic name we give to a meetup of people interested in making things with a Raspberry Pi computer. Raspberry Jams come in all shapes and sizes: workshops for beginners, drop-in sessions to work on your own projects, show-and-tell, talks, and more. A Jam is a meeting of all kinds of people: some will be new to physical computing, and some will have plenty of experience that they are happy to share. Jams are welcoming events where you’ll meet and learn from like-minded people in a friendly environment.
+"
 
 ## 
 
