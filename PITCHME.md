@@ -25,17 +25,14 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 * You can host your own too.
 * Learning Information Technology in K-12 with Raspberry PI
 * Let's assemble your computer
-* What are the parts and pieces?
+* Jam
 
-+++
+---
 
-* What's an operating system?
-* Securing your computer
-* Set up the network
-* Remote access to  your machine
-* The good things to know when setting up.
-* Introduction to Scratch and GPIO electronics
-* The Jam: Let's have fun and explore
+## What's a Raspberry PI Jam?
+
+## 
+
 ---
 
 ## What is Information Technology?
@@ -52,7 +49,7 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 ## Computer Hardware
 * CPU
 * Memory
-* Harddrive
+* Hard drive
 * Keyboard
 * Mouse
 
