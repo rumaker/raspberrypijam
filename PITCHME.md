@@ -28,7 +28,7 @@ In this hands-on introduction to using Raspberry Pi, you will learn how to get s
 * What's a Raspberry PI Jam?
 * You can host your own too.
 * Learning Information Technology in K-12 with Raspberry PI
-* Let's Get Started: Start building
+* Setting up Raspberry PIs for jamming
 * Jam
 
 ---
